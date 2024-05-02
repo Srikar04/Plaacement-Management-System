@@ -1,0 +1,13 @@
+System Specifications:
+
+CPU: dual core 11th Gen Intel Core i3-1115G4 (-MT MCP-)
+speed/min/max: 3117/400/4100 MHz Kernel: 5.15.0-102-generic x86_64 Up: 20m
+Mem: 4741.0/15634.5 MiB (30.3%) Storage: 238.47 GiB (45.9% used) Procs: 281
+Shell: Bash inxi: 3.3.13
+
+Software Used:
+
+intelliJ IDEA 2023.3.6 as IDE
+mysql  Ver 8.0.36-0ubuntu0.22.04.1 for Linux on x86_64 ((Ubuntu))
+draw.io for DFD, Structured chart
+Tomcat 10 as the server
